@@ -1,0 +1,32 @@
+#Navbar {
+  background-color: aquamarine;
+  position: absolute;
+  background-size: cover;
+  display: flex;
+  list-style-type: none;
+  width: 100%;
+  height: auto;
+}
+.div1 {
+  width: 100%;
+}
+#navlist {
+  list-style-type: none;
+  padding-left: 5rem;
+  display: flex;
+}
+
+li {
+  margin: 10px;
+  font-size: large;
+}
+#head1 {
+  padding-left: 1rem;
+}
+html,
+body {
+  margin: 0%;
+  padding: 0%;
+  height: 100%;
+  width: 100%;
+}
